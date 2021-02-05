@@ -64,4 +64,6 @@ img {
     width: 25%;
   }
 
-
+  img:hover {
+    transform: rotate(5deg);
+}
